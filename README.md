@@ -6,7 +6,7 @@
 
 2. What can this program do?
 
-  Not much other than pull data. The way it's designed (currently) is to parse the metadata from an Openedge table, create its SQLite twin, and then migrate the data using SELECT and INSERT statements. It's very simple. 
+   Not much other than pull data. The way it's designed (currently) is to parse the metadata from an Openedge table, create its SQLite twin, and then migrate the data using SELECT and INSERT statements. It's very simple. 
 
 3. What is the goal of this project?
 
