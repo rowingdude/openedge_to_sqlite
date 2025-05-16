@@ -1,0 +1,19 @@
+{
+    "progress_db": {
+        "host": "localhost",
+        "port": 5000,
+        "db_name": "MYDB",
+        "user": "user",
+        "password": "password",
+        "driver_class": "Progress OpenEdge Driver",
+        "jar_file": ""
+    },
+    "sqlite_db": {
+        "db_path": "analytics.db"
+    },
+    "mirror_settings": {
+        "batch_size": 1000,
+        "log_file": "data_sync.log",
+        "ignore_file": "ignored_tables.txt"
+    }
+}
